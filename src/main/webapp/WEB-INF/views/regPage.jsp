@@ -13,7 +13,7 @@
 <body>
     <pre>
         <form action="regpage" method="post">
-            <input type="text" name="name" id="">
+            <label for="">name:</label><input type="text" name="name" id="">
             <input type="submit" value="submit">
 
         </form>
